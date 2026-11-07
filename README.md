@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Hi, I'm Sajal Malhotra 👋
+#  Hi, I'm Sajal Malhotra 
 
-### **Sophomore @ NIT Jalandhar (B.Tech IT '27) • Full-Stack, Systems & Applied AI Builder**
+### **Sophomore @ NIT Jalandhar (B.Tech IT '29) • Full-Stack, Systems & Applied AI Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-malhotra)
 [![Email](https://img.shields.io/badge/Email-malhotrasajal243@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malhotrasajal243@gmail.com)
@@ -16,7 +16,7 @@
 │ > engineer.location = "India"                                               │
 │ > engineer.role     = "Full-Stack Software Engineer & AI Systems Builder"   │
 │ > engineer.focus    = ["High-Concurrency Platforms", "Hybrid RAG", "MLOps"]│
-│ > engineer.status   = "Seeking Summer 2025 / 2026 Engineering Internships"  │
+│ > engineer.status   = "Seeking winter 2025 & Summer 2026 Engineering Internships"  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
