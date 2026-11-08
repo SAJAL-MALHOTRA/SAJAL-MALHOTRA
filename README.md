@@ -4,7 +4,7 @@ Undergraduate in Information Technology at the National Institute of Technology,
 
 I build full-stack web platforms, real-time competition engines, and retrieval infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/sajal-malhotra) • [Email](mailto:malhotrasajal243@gmail.com) • [GitHub](https://github.com/SAJAL-MALHOTRA)
+[LinkedIn](https://www.linkedin.com/in/sajal-malhotra1) • [Email](mailto:malhotrasajal243@gmail.com) • [GitHub](https://github.com/SAJAL-MALHOTRA)
 
 ---
 
